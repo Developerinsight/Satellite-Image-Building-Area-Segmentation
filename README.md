@@ -1,5 +1,5 @@
 # Satellite Image Building Area Segmentation
-This is the code for DACON SW중심대학 공동 AI 경진대 2023
+This is the code for DACON SW중심대학 공동 AI 경진대회 2023
 * Link: https://dacon.io/competitions/official/236092/overview/description
 * Data: https://dacon.io/competitions/official/236092/data
 * base code: https://dacon.io/competitions/official/236092/codeshare/8465?page=1&dtype=recent
